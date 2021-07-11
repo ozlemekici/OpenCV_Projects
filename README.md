@@ -1,2 +1,2 @@
 # Python-OpenCV-Projects
-Ses tanıma, yüz tanıma ve resim filtresi
+Voice recognition, face recognition and picture filter
